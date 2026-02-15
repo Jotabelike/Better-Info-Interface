@@ -1,0 +1,20 @@
+{
+	"geode": "5.0.0-beta.1",
+	"gd": {
+		"win": "2.2081",
+		"android": "2.2074",
+		"mac": "2.2074",
+		"ios": "2.2074"
+	},
+	"id": "xjotabelikex.better_alerts",
+	"name": "Better info interface",
+	"version": "v1.0.0",
+	"tags": [
+		"interface"
+	],
+	"developer": "XJotaBeLikeX",
+	"description": "improves the information interface",
+	"dependencies": {
+		"geode.node-ids": ">=v1.20.0"
+	}
+}

@@ -19,5 +19,6 @@
 	"description": "improves the information interface",
 	"dependencies": {
 		"geode.node-ids": ">=v1.22.0"
+
 	}
 }

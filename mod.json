@@ -1,20 +1,23 @@
 {
-	"geode": "5.0.0-beta.1",
+	"geode": "5.0.0-beta.3",
 	"gd": {
 		"win": "2.2081",
-		"android": "2.2074",
-		"mac": "2.2074",
-		"ios": "2.2074"
+		"android": "2.2081",
+		"mac": "2.2081",
+		"ios": "2.2081"
 	},
 	"id": "xjotabelikex.better_info_interface",
 	"name": "Better info interface",
-	"version": "v1.0.0",
+	"version": "v1.0.1",
 	"tags": [
 		"interface"
 	],
+	"links": {
+		"community": "https://discord.gg/vEPWBuFEn5"
+	},
 	"developer": "XJotaBeLikeX",
 	"description": "improves the information interface",
 	"dependencies": {
-		"geode.node-ids": ">=v1.20.0"
+		"geode.node-ids": ">=v1.22.0"
 	}
 }
